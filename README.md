@@ -24,7 +24,7 @@
 ---
 
 <div id="badges">
-  <a href = "[https://github.com/GabrielLehmann](https://www.linkedin.com/in/gabriel-lehmann-910a48251/)">
+  <a href = "https://www.linkedin.com/in/gabriel-lehmann-910a48251/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href = "https://twitter.com/GFLehmann13">

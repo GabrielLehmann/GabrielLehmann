@@ -4,7 +4,9 @@
 
 ---
 
+- 💙 Amante da programação
 - 👩‍💻 Aprendendo sobre Front-end
+- 🖥️ Pronto para iniciar a carreira
 
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -24,7 +26,7 @@
 ---
 
 <div id="badges">
-  <a href = "https://www.linkedin.com/in/gabriel-lehmann-910a48251/">
+  <a _blank href = "https://www.linkedin.com/in/gabriel-lehmann-910a48251/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href = "https://twitter.com/GFLehmann13">

@@ -19,8 +19,10 @@
 
 <div align = "left">
  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=GabrielLehmann&show_icons=true&show_icons=true&theme=tokyonight&count_private=true" />
- <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLehmann&show_icons=true&theme=tokyonight&count_private=true" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLehmanns&layout=compact&langs_count=7&theme=tokyonight"/>
+ <!--
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLehmann&show_icons=true&theme=tokyonight&count_private=true" /> 
+ !-->
+ <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLehmann&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---

@@ -2,8 +2,6 @@
 
 # Olá, seja bem vindo ao meu perfil, bom ter você por aqui !!!
 
----
-
  - 💙 Amante da programação
  - 👩‍💻 Aprendendo sobre Front-end
  - 🖥️ Pronto para iniciar a carreira

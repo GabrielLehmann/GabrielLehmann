@@ -3,8 +3,8 @@
 # Olá, seja bem vindo ao meu perfil, bom ter você por aqui !!!
 
  - 💙 Amante da programação
- - 👩‍💻 Aprendendo sobre Front-end
- - 🖥️ Pronto para iniciar a carreira
+ - 👩‍💻 Sempre aprendendo mais 
+ - 🖥️ Pronto para evoluir na carreira
  
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
